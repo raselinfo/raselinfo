@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://raselhossainy52.medium.com/](https://raselhossainy52.medium.com/)
 
-- 💬 Ask me about **React,Vue.js,Gasap**
+- 💬 Ask me about **React,Vue.js**
 
 - 📫 How to reach me **https://raselofficial.com/**
 

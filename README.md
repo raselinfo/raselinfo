@@ -3,17 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raselinfo&label=Profile%20views&color=0e75b6&style=flat" alt="raselinfo" /> </p>
 
-- 🔭 I’m currently working on **Vue Expart**
+- 🔭 I’m currently working on **OpenSurface**
 
-- 🌱 I’m currently learning **Vue.js,Nuxt.js**
+- 🌱 I’m currently learning **System Design**
 
-- 👨‍💻 All of my projects are available at [https://raselofficial.com/](https://raselofficial.com/)
-
-- 📝 I regularly write articles on [https://raselhossainy52.medium.com/](https://raselhossainy52.medium.com/)
-
-- 💬 Ask me about **React,Vue.js,Node.js,Lottie Animation**
-
-- 📫 How to reach me **https://raselofficial.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
